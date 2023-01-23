@@ -38,7 +38,7 @@
   image_path: img/tusecure.png
   uri: "https://accounts.temple.edu"
 
-- name: Cherry & White Directory
-  description: 'student, faculty, & staff directory'
-  image_path: img/directory.png
-  uri: "https://directory.temple.edu"
+- name: Remote Proxy
+  description: 'remotely connect to computers on campus'
+  image_path: img/remote.png
+  uri: "https://remoteproxy.temple.edu"
